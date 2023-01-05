@@ -1,0 +1,99 @@
+/* style.css */
+
+/*.mt-5 {
+  margin-top: ($spacer * .25) !important;
+}
+
+.p-5 {
+  padding: ($spacer * .3) !important;
+}
+
+.fotos{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ gap: 1rem;
+ margin-bottom: 20px;
+}
+
+.enc{
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.card{
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.navbar{
+  background-color:rgb(0, 225, 255);
+}
+
+.container-fluid{
+  background-color:rgb(0, 225, 255);
+  
+}
+
+.formulario{
+  background-color:rgb(0, 225, 255);
+}
+
+.textoprecio{
+  text-decoration-color: rgb(0, 225, 255);
+}
+
+ .navbar-expand-lg{
+  flex-wrap:nowrap;
+  justify-content:center;
+}
+.spacer{
+  flex:1 1 auto;
+  } 
+
+  .mt-n1 {
+    margin-top: 1rem !important;
+  } */
+
+img {
+  height: 30px;
+  width: 35px;
+  border-radius: 20px;
+  margin: 0.5rem;
+}
+
+.Botones_der {
+  align-items: flex-start;
+}
+
+.boton {
+  padding: 1rem;
+  margin: 0 2rem;
+
+}
+
+.col-3 {
+  border: 0ch;
+  background-color: rgb(202, 209, 209);
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.img_ppal img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  margin: 0 0.5rem;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+}
+
+.img_ppal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2rem;
+}
